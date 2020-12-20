@@ -1,0 +1,102 @@
+.active{
+  color:green;
+}
+/* body {
+  background-color: #363636 !important;
+}
+
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.movieList {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.searchContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #262626;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.searchInput {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: gold;
+}
+
+.searchInput:focus {
+  box-shadow: 0 0 3px 1px gold;
+}
+
+.modalBody {
+  display: flex;
+  flex-direction: column;
+}
+
+.modalBody input {
+  margin: 10px;
+  padding: 10px 20px;
+}
+
+.clear {
+  border-style: none;
+  background: none;
+  font-style: italic;
+  color: #067eff;
+}
+
+.clear:hover {
+  color: #59a9ff;
+  text-decoration: underline;
+}
+
+.clear:focus {
+  outline: none;
+}
+.starSearch {
+  display: flex;
+  justify-content: space-between !important;
+  align-items: center;
+}
+
+.movieCardContainer {
+  overflow: hidden;
+}
+
+.movieCardContainer:hover {
+  box-shadow: 0 0 0 1px gold;
+}
+
+.movImg {
+  width: 424px;
+} */
+
+/* .movImg:hover {
+  transform: scale(1.2);
+  transition: 1s ease;
+}
+
+.movImg:not(:hover) {
+  transition: 0.5s ease-out;
+  animation-delay: 0.2s;
+}
+
+.innerCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+} */
